@@ -21,13 +21,13 @@ The technologies I used to develop the application were Swift, SwiftUI, and Core
 ## 📱 App
 
 <h1 align="center">
-    <img alt="History" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/185d7ab1-97f4-4bd2-ad95-9aeef78b8563" width="300px">
-   <img alt="Camera" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/e20ceb2c-9db1-4be0-bd10-b613a22c7ba3" width="300px">
-    <img alt="Animal" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/cb2ec341-6191-4253-b6d2-8efe4e1f4c86" width="300px"> 
+    <img alt="History" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/185d7ab1-97f4-4bd2-ad95-9aeef78b8563" width="250px">
+   <img alt="Camera" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/e20ceb2c-9db1-4be0-bd10-b613a22c7ba3" width="250px">
+    <img alt="Animal" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/cb2ec341-6191-4253-b6d2-8efe4e1f4c86" width="250px"> 
     <br>
-    <img alt="Endangered" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/c4503b24-54a0-444e-bd24-a20182b21fc4" width="300px">
-    <img alt="NotAnimal" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/b5ceb095-5647-48d2-bd1b-678b7e992a87" width="300px">
-      <img alt="Green" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/672f3704-da38-4b26-9d92-e369fc55037d" width="300px">
+    <img alt="Endangered" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/c4503b24-54a0-444e-bd24-a20182b21fc4" width="250px">
+    <img alt="NotAnimal" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/b5ceb095-5647-48d2-bd1b-678b7e992a87" width="250px">
+      <img alt="Green" src="https://github.com/GustavoFernandesBatista/SkyGuard/assets/108647437/672f3704-da38-4b26-9d92-e369fc55037d" width="250px">
 
 </h1>
 
